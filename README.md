@@ -1,4 +1,10 @@
 # MASTER-Transformer
+
+
+
+
+# MASTER-Transformer架構
+
 ```txt
                          ┌────────────────────────────┐
                          │   Market Status Vector mτ  │
