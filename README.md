@@ -19,6 +19,7 @@ XGBoost Regressor, XGBoost PCA Regressor
 兩者的詳細比較請參閱：
 **模型比較報告書(MASTER-Transformer v.s. flash attn).pdf**
 
+![image](https://github.com/user-attachments/assets/1898fd75-001d-49a8-829f-cc589431a874)
 
 
 <br><br>
