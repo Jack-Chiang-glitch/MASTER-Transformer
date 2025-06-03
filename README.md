@@ -1,5 +1,16 @@
 # MASTER-Transformer
 
+```txt
+在這次研究中，比較了四種不同的模型不同的表現，
+MASTER-Transformer, MASTER-Transformer(flash attention)
+XGBoost Regressor, XGBoost PCA Regressor
+使用了186個因子，使用XGBoost模型有用了各種特徵篩選方式
+例如:檢查Multicolinearity, F regression score, XGBoost Importance, LASSO, ElasticNet等等
+
+詳盡資訊(回測結果、統計檢定、Alphalnes評估統計IC值、資料集、特徵篩選、TimeSeries Cross Validation、模型比較)
+```
+
+
 
 
 
