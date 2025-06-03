@@ -10,8 +10,19 @@ XGBoost Regressor, XGBoost PCA Regressor
 詳盡資訊(回測結果、統計檢定、Alphalnes評估統計IC值、資料集、特徵篩選、TimeSeries Cross Validation、模型比較)
 ```
 
+## MASTER-Transformer（深度學習）與 XGBoost Regressor（傳統機器學習）
+
+兩者的詳細比較請參閱：
+**模型比較報告書 XGBoost（PCA）.pdf**
+
+## MASTER-Transformer 與 MASTER-Transformer(Flash attention)
+兩者的詳細比較請參閱：
+**模型比較報告書(MASTER-Transformer v.s. flash attn).pdf**
 
 
+
+<br><br>
+<br>
 
 
 # MASTER-Transformer架構
