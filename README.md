@@ -1,4 +1,3 @@
-# MASTER-Transformer
 
 ```txt
 在這次研究中，比較了四種不同的模型不同的表現，
